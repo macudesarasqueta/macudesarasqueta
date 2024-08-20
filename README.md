@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Macarena de Sarasqueta Szneiderowicz</h1>
-<h3 align="center">Aspiring Web Developer | Current Student, Future Innovator</h3>
+<h3 align="center">Aspiring Web and app Developer | Current Student, Future Innovator</h3>
 
 - 🔭 I’m currently working on web development **Hockey Hierba FC Barcelona**
 
